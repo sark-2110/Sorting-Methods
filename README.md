@@ -1,22 +1,21 @@
 # Sorting-Methods
 Sorting Algorithms:
 We have implemented Bubble Sort, Insertion Sort, Selection Sort, Merge Sort, Quick Sort, Heap Sort, Radix Sort, Shell Sort.
+
 Motivation
 A repo of sorting techniques to help to us understand most of the technique in one place.
+
 Code style
 You can add your own Sorting Technique.
 
-Bubble Sort in C
+Bubble Sort
 Bubble sort is a simple sorting algorithm in which each element is compared with adjacent element and swapped if their position is incorrect. It is named as bubble sort because same as like bubbles the lighter elements come up and heavier elements settle down.
 Both worst case and average case complexity is O (n2).
-
  
 Insertion Sort
 Insertion sort is a sorting algorithm that builds a final sorted array one element at a time.
 Insertion sort has an average and worst-case running time of O (n2).
-
  
-
 Selection Sort
 The selection sort algorithm sorts an array by repeatedly finding the minimum element (considering ascending order) from unsorted part and putting it at the beginning. The algorithm maintains two subarrays in a given array.
 1) The subarray which is already sorted.
